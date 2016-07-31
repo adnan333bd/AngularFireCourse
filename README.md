@@ -34,6 +34,10 @@ created your firebase using the new management console, or you upgraded it to ve
 
 You can find a summary of many of the required changes in this migration document: https://github.com/firebase/angularfire/blob/master/docs/migration/1XX-to-2XX.md
 
+Furthermore, these changes have been implemented in some sample code at https://github.com/joeeames/expense-tracker
+This sample code isn't identical to what is produced in the course, but it's very close.
+
+
 ### Index.html
 
 Remove the two script files for Angular 2.4.1 and AngularFire 1.1.4 and instead use the following:
